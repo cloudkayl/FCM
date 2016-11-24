@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "16358153101",
+    "firebase_url": "https://gcloud-d0dd7.firebaseio.com",
+    "project_id": "gcloud-d0dd7",
+    "storage_bucket": "gcloud-d0dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16358153101:android:2052e86098d9f7f1",
+        "android_client_info": {
+          "package_name": "info.brip.gcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16358153101-jihbh9hrt89p41vr0ir82eifn7spr5md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTjj6vMxiPmM5iGu0mmP7W1E2yLuYDdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
